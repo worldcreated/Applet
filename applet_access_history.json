@@ -1,0 +1,14 @@
+{
+  "applets": [{
+    "lastAccessTime": "2025-05-02T02:16:44.796732Z",
+    "firstAccessTime": "2025-05-02T02:16:44.796732Z",
+    "source": {
+      "drive": {
+        "resourceId": "1ybaLk9cO8EfOBAlMGa81tuXkn7JcGCyy",
+        "revisionId": "0B29lnDF1YDcnR213M2JtMHpuMFZtTDF2c0xlNjhvcElVaThvPQ"
+      }
+    },
+    "name": "Copy of Live",
+    "description": "Create a live agent using bidirectional streaming"
+  }]
+}
